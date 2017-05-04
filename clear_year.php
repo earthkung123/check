@@ -18,7 +18,6 @@ if($_POST["Faculty_ID"] == ""){?>
 	<?php
         
 	}
-	echo "555555";
 	?>
 </body>
 </html>
